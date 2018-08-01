@@ -1,2 +1,2 @@
-def my_function(param1, param2):
-    return param1 + param2   
+def my_function(p1, param2):
+    return p1 + param2   
